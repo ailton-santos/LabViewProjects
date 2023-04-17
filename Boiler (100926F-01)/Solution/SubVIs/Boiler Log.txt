@@ -1,0 +1,886 @@
+Timestamp,Event,Event Data
+15:52:35,235 2016-05-26,Boiler Initialized,0 
+16:09:12,402 2016-05-26,Boiler Initialized,0 
+16:10:43,811 2016-05-26,Boiler Ready,0 
+16:10:47,714 2016-05-26,Start Pre-Purge,0,00 
+16:10:47,814 2016-05-26,Start Pre-Purge,0,10 
+16:10:47,915 2016-05-26,Start Pre-Purge,0,20 
+16:10:48,016 2016-05-26,Start Pre-Purge,0,30 
+16:10:48,115 2016-05-26,Start Pre-Purge,0,40 
+16:10:48,215 2016-05-26,Start Pre-Purge,0,50 
+16:10:48,315 2016-05-26,Start Pre-Purge,0,60 
+16:10:48,415 2016-05-26,Start Pre-Purge,0,70 
+16:10:48,515 2016-05-26,Start Pre-Purge,0,80 
+16:10:48,615 2016-05-26,Start Pre-Purge,0,90 
+16:10:48,715 2016-05-26,Start Pre-Purge,1,00 
+16:10:48,815 2016-05-26,Start Pre-Purge,1,10 
+16:10:48,915 2016-05-26,Start Pre-Purge,1,20 
+16:10:49,015 2016-05-26,Start Pre-Purge,1,30 
+16:10:49,116 2016-05-26,Start Pre-Purge,1,40 
+16:10:49,215 2016-05-26,Start Pre-Purge,1,50 
+16:10:49,315 2016-05-26,Start Pre-Purge,1,60 
+16:10:49,415 2016-05-26,Start Pre-Purge,1,70 
+16:10:49,517 2016-05-26,Start Pre-Purge,1,80 
+16:10:49,616 2016-05-26,Start Pre-Purge,1,90 
+16:10:49,716 2016-05-26,Start Pre-Purge,2,00 
+16:10:49,816 2016-05-26,Start Pre-Purge,2,10 
+16:10:49,916 2016-05-26,Start Pre-Purge,2,20 
+16:10:50,016 2016-05-26,Start Pre-Purge,2,30 
+16:10:50,116 2016-05-26,Start Pre-Purge,2,40 
+16:10:50,216 2016-05-26,Start Pre-Purge,2,50 
+16:10:50,316 2016-05-26,Start Pre-Purge,2,60 
+16:10:50,416 2016-05-26,Start Pre-Purge,2,70 
+16:10:50,516 2016-05-26,Start Pre-Purge,2,80 
+16:10:50,616 2016-05-26,Start Pre-Purge,2,90 
+16:10:50,716 2016-05-26,Start Pre-Purge,3,00 
+16:10:50,816 2016-05-26,Start Pre-Purge,3,10 
+16:10:50,916 2016-05-26,Start Pre-Purge,3,20 
+16:10:51,016 2016-05-26,Start Pre-Purge,3,30 
+16:10:51,118 2016-05-26,Start Pre-Purge,3,40 
+16:10:51,217 2016-05-26,Start Pre-Purge,3,50 
+16:10:51,317 2016-05-26,Start Pre-Purge,3,60 
+16:10:51,417 2016-05-26,Start Pre-Purge,3,70 
+16:10:51,517 2016-05-26,Start Pre-Purge,3,80 
+16:10:51,619 2016-05-26,Start Pre-Purge,3,90 
+16:10:51,718 2016-05-26,Start Pre-Purge,4,00 
+16:10:51,819 2016-05-26,Start Pre-Purge,4,10 
+16:10:51,919 2016-05-26,Start Pre-Purge,4,20 
+16:10:52,019 2016-05-26,Start Pre-Purge,4,31 
+16:10:52,119 2016-05-26,Start Pre-Purge,4,40 
+16:10:52,219 2016-05-26,Start Pre-Purge,4,51 
+16:10:52,319 2016-05-26,Start Pre-Purge,4,60 
+16:10:52,419 2016-05-26,Start Pre-Purge,4,71 
+16:10:52,519 2016-05-26,Start Pre-Purge,4,81 
+16:10:52,620 2016-05-26,Start Pre-Purge,4,91 
+16:10:52,721 2016-05-26,Start Pre-Purge,5,01 
+16:10:52,820 2016-05-26,Start Pre-Purge,5,11 
+16:10:52,920 2016-05-26,Start Pre-Purge,5,21 
+16:10:53,021 2016-05-26,Start Pre-Purge,5,31 
+16:10:53,121 2016-05-26,Start Pre-Purge,5,41 
+16:10:53,221 2016-05-26,Start Pre-Purge,5,51 
+16:10:53,322 2016-05-26,Start Pre-Purge,5,61 
+16:10:53,422 2016-05-26,Start Pre-Purge,5,71 
+16:10:53,523 2016-05-26,Start Pre-Purge,5,81 
+16:10:53,623 2016-05-26,Start Pre-Purge,5,91 
+16:10:53,723 2016-05-26,Start Pre-Purge,6,01 
+16:10:53,823 2016-05-26,Start Pre-Purge,6,11 
+16:10:53,923 2016-05-26,Start Pre-Purge,6,21 
+16:10:54,023 2016-05-26,Start Pre-Purge,6,31 
+16:10:54,123 2016-05-26,Start Pre-Purge,6,41 
+16:10:54,223 2016-05-26,Start Pre-Purge,6,51 
+16:10:54,323 2016-05-26,Start Pre-Purge,6,61 
+16:10:54,423 2016-05-26,Start Pre-Purge,6,71 
+16:10:54,523 2016-05-26,Start Pre-Purge,6,81 
+16:10:54,623 2016-05-26,Start Pre-Purge,6,91 
+16:10:54,723 2016-05-26,Start Pre-Purge,7,01 
+16:10:54,823 2016-05-26,Start Pre-Purge,7,11 
+16:10:54,923 2016-05-26,Start Pre-Purge,7,21 
+16:10:55,023 2016-05-26,Start Pre-Purge,7,31 
+16:10:55,123 2016-05-26,Start Pre-Purge,7,41 
+16:10:55,223 2016-05-26,Start Pre-Purge,7,51 
+16:10:55,324 2016-05-26,Start Pre-Purge,7,61 
+16:10:55,424 2016-05-26,Start Pre-Purge,7,71 
+16:10:55,525 2016-05-26,Start Pre-Purge,7,81 
+16:10:55,625 2016-05-26,Start Pre-Purge,7,91 
+16:10:55,725 2016-05-26,Start Pre-Purge,8,01 
+16:10:55,825 2016-05-26,Start Pre-Purge,8,11 
+16:10:55,925 2016-05-26,Start Pre-Purge,8,21 
+16:10:56,025 2016-05-26,Start Pre-Purge,8,31 
+16:10:56,125 2016-05-26,Start Pre-Purge,8,41 
+16:10:56,225 2016-05-26,Start Pre-Purge,8,51 
+16:10:56,326 2016-05-26,Start Pre-Purge,8,61 
+16:10:56,425 2016-05-26,Start Pre-Purge,8,71 
+16:10:56,525 2016-05-26,Start Pre-Purge,8,81 
+16:10:56,625 2016-05-26,Start Pre-Purge,8,91 
+16:10:56,725 2016-05-26,Start Pre-Purge,9,01 
+16:10:56,825 2016-05-26,Start Pre-Purge,9,11 
+16:10:56,925 2016-05-26,Start Pre-Purge,9,21 
+16:10:57,026 2016-05-26,Start Pre-Purge,9,31 
+16:10:57,126 2016-05-26,Start Pre-Purge,9,41 
+16:10:57,226 2016-05-26,Start Pre-Purge,9,51 
+16:10:57,326 2016-05-26,Start Pre-Purge,9,61 
+16:10:57,426 2016-05-26,Start Pre-Purge,9,71 
+16:10:57,526 2016-05-26,Start Pre-Purge,9,81 
+16:10:57,627 2016-05-26,Start Pre-Purge,9,91 
+16:10:57,727 2016-05-26,Start Pre-Purge,10,01 
+16:10:57,827 2016-05-26,Pre-Purge Complete,10,00 
+16:11:03,031 2016-05-26,Pilot ON,True 
+16:11:03,131 2016-05-26,Forced Draft Fan ON,True 
+16:11:03,231 2016-05-26,Boiler Running,19,05 
+16:11:09,339 2016-05-26,Start Shutdown Purge,0,00 
+16:11:09,438 2016-05-26,Start Shutdown Purge,0,10 
+16:11:09,538 2016-05-26,Start Shutdown Purge,0,20 
+16:11:09,638 2016-05-26,Start Shutdown Purge,0,30 
+16:11:09,738 2016-05-26,Start Shutdown Purge,0,40 
+16:11:09,838 2016-05-26,Start Shutdown Purge,0,50 
+16:11:09,938 2016-05-26,Start Shutdown Purge,0,60 
+16:11:10,039 2016-05-26,Start Shutdown Purge,0,70 
+16:11:10,139 2016-05-26,Start Shutdown Purge,0,80 
+16:11:10,239 2016-05-26,Start Shutdown Purge,0,90 
+16:11:10,339 2016-05-26,Start Shutdown Purge,1,00 
+16:11:10,439 2016-05-26,Start Shutdown Purge,1,10 
+16:11:10,539 2016-05-26,Start Shutdown Purge,1,20 
+16:11:10,639 2016-05-26,Start Shutdown Purge,1,30 
+16:11:10,739 2016-05-26,Start Shutdown Purge,1,40 
+16:11:10,839 2016-05-26,Start Shutdown Purge,1,50 
+16:11:10,939 2016-05-26,Start Shutdown Purge,1,60 
+16:11:11,040 2016-05-26,Start Shutdown Purge,1,70 
+16:11:11,141 2016-05-26,Start Shutdown Purge,1,80 
+16:11:11,240 2016-05-26,Start Shutdown Purge,1,90 
+16:11:11,340 2016-05-26,Start Shutdown Purge,2,00 
+16:11:11,440 2016-05-26,Start Shutdown Purge,2,10 
+16:11:11,542 2016-05-26,Start Shutdown Purge,2,20 
+16:11:11,642 2016-05-26,Start Shutdown Purge,2,30 
+16:11:11,741 2016-05-26,Start Shutdown Purge,2,40 
+16:11:11,841 2016-05-26,Start Shutdown Purge,2,50 
+16:11:11,941 2016-05-26,Start Shutdown Purge,2,60 
+16:11:12,041 2016-05-26,Start Shutdown Purge,2,70 
+16:11:12,141 2016-05-26,Start Shutdown Purge,2,80 
+16:11:12,241 2016-05-26,Start Shutdown Purge,2,90 
+16:11:12,341 2016-05-26,Start Shutdown Purge,3,00 
+16:11:12,441 2016-05-26,Start Shutdown Purge,3,10 
+16:11:12,541 2016-05-26,Start Shutdown Purge,3,20 
+16:11:12,641 2016-05-26,Start Shutdown Purge,3,30 
+16:11:12,741 2016-05-26,Start Shutdown Purge,3,40 
+16:11:12,841 2016-05-26,Start Shutdown Purge,3,50 
+16:11:12,942 2016-05-26,Start Shutdown Purge,3,60 
+16:11:13,041 2016-05-26,Start Shutdown Purge,3,70 
+16:11:13,141 2016-05-26,Start Shutdown Purge,3,80 
+16:11:13,241 2016-05-26,Start Shutdown Purge,3,90 
+16:11:13,341 2016-05-26,Start Shutdown Purge,4,00 
+16:11:13,441 2016-05-26,Start Shutdown Purge,4,10 
+16:11:13,541 2016-05-26,Start Shutdown Purge,4,20 
+16:11:13,641 2016-05-26,Start Shutdown Purge,4,30 
+16:11:13,741 2016-05-26,Start Shutdown Purge,4,40 
+16:11:13,841 2016-05-26,Start Shutdown Purge,4,50 
+16:11:13,942 2016-05-26,Start Shutdown Purge,4,60 
+16:11:14,043 2016-05-26,Start Shutdown Purge,4,70 
+16:11:14,143 2016-05-26,Start Shutdown Purge,4,80 
+16:11:14,245 2016-05-26,Start Shutdown Purge,4,91 
+16:11:14,345 2016-05-26,Start Shutdown Purge,5,01 
+16:11:14,444 2016-05-26,Start Shutdown Purge,5,11 
+16:11:14,544 2016-05-26,Start Shutdown Purge,5,21 
+16:11:14,644 2016-05-26,Start Shutdown Purge,5,31 
+16:11:14,744 2016-05-26,Start Shutdown Purge,5,41 
+16:11:14,844 2016-05-26,Start Shutdown Purge,5,51 
+16:11:14,945 2016-05-26,Start Shutdown Purge,5,61 
+16:11:15,045 2016-05-26,Start Shutdown Purge,5,71 
+16:11:15,146 2016-05-26,Start Shutdown Purge,5,81 
+16:11:15,246 2016-05-26,Start Shutdown Purge,5,91 
+16:11:15,346 2016-05-26,Start Shutdown Purge,6,01 
+16:11:15,446 2016-05-26,Start Shutdown Purge,6,11 
+16:11:15,546 2016-05-26,Start Shutdown Purge,6,21 
+16:11:15,646 2016-05-26,Start Shutdown Purge,6,31 
+16:11:15,746 2016-05-26,Start Shutdown Purge,6,41 
+16:11:15,846 2016-05-26,Start Shutdown Purge,6,51 
+16:11:15,946 2016-05-26,Start Shutdown Purge,6,61 
+16:11:16,046 2016-05-26,Start Shutdown Purge,6,71 
+16:11:16,147 2016-05-26,Start Shutdown Purge,6,81 
+16:11:16,247 2016-05-26,Start Shutdown Purge,6,91 
+16:11:16,347 2016-05-26,Start Shutdown Purge,7,01 
+16:11:16,447 2016-05-26,Start Shutdown Purge,7,11 
+16:11:16,547 2016-05-26,Start Shutdown Purge,7,21 
+16:11:16,647 2016-05-26,Start Shutdown Purge,7,31 
+16:11:16,747 2016-05-26,Start Shutdown Purge,7,41 
+16:11:16,847 2016-05-26,Start Shutdown Purge,7,51 
+16:11:16,947 2016-05-26,Start Shutdown Purge,7,61 
+16:11:17,047 2016-05-26,Start Shutdown Purge,7,71 
+16:11:17,147 2016-05-26,Start Shutdown Purge,7,81 
+16:11:17,247 2016-05-26,Start Shutdown Purge,7,91 
+16:11:17,347 2016-05-26,Start Shutdown Purge,8,01 
+16:11:17,447 2016-05-26,Start Shutdown Purge,8,11 
+16:11:17,547 2016-05-26,Start Shutdown Purge,8,21 
+16:11:17,647 2016-05-26,Start Shutdown Purge,8,31 
+16:11:17,747 2016-05-26,Start Shutdown Purge,8,41 
+16:11:17,848 2016-05-26,Start Shutdown Purge,8,51 
+16:11:17,947 2016-05-26,Start Shutdown Purge,8,61 
+16:11:18,047 2016-05-26,Start Shutdown Purge,8,71 
+16:11:18,147 2016-05-26,Start Shutdown Purge,8,81 
+16:11:18,255 2016-05-26,Start Shutdown Purge,8,92 
+16:11:18,355 2016-05-26,Start Shutdown Purge,9,02 
+16:11:18,455 2016-05-26,Start Shutdown Purge,9,12 
+16:11:18,555 2016-05-26,Start Shutdown Purge,9,22 
+16:11:18,655 2016-05-26,Start Shutdown Purge,9,32 
+16:11:18,755 2016-05-26,Start Shutdown Purge,9,42 
+16:11:18,856 2016-05-26,Start Shutdown Purge,9,52 
+16:11:18,956 2016-05-26,Start Shutdown Purge,9,62 
+16:11:19,056 2016-05-26,Start Shutdown Purge,9,72 
+16:11:19,157 2016-05-26,Start Shutdown Purge,9,82 
+16:11:19,257 2016-05-26,Start Shutdown Purge,9,92 
+16:11:19,357 2016-05-26,Start Shutdown Purge,10,02 
+16:11:19,457 2016-05-26,Boiler Initialized,0 
+16:13:24,195 2016-05-26,Boiler Initialized,0 
+16:17:47,290 2016-05-26,Boiler Ready,0 
+16:17:59,104 2016-05-26,Start Pre-Purge,0,00 
+16:17:59,204 2016-05-26,Start Pre-Purge,0,10 
+16:17:59,304 2016-05-26,Start Pre-Purge,0,20 
+16:17:59,404 2016-05-26,Start Pre-Purge,0,30 
+16:17:59,504 2016-05-26,Start Pre-Purge,0,40 
+16:17:59,604 2016-05-26,Start Pre-Purge,0,50 
+16:17:59,704 2016-05-26,Start Pre-Purge,0,60 
+16:17:59,805 2016-05-26,Start Pre-Purge,0,70 
+16:17:59,904 2016-05-26,Start Pre-Purge,0,80 
+16:18:00,004 2016-05-26,Start Pre-Purge,0,90 
+16:18:00,104 2016-05-26,Start Pre-Purge,1,00 
+16:18:00,204 2016-05-26,Start Pre-Purge,1,10 
+16:18:00,304 2016-05-26,Start Pre-Purge,1,20 
+16:18:00,406 2016-05-26,Start Pre-Purge,1,30 
+16:18:00,505 2016-05-26,Start Pre-Purge,1,40 
+16:18:00,605 2016-05-26,Start Pre-Purge,1,50 
+16:18:00,705 2016-05-26,Start Pre-Purge,1,60 
+16:18:00,805 2016-05-26,Start Pre-Purge,1,70 
+16:18:00,905 2016-05-26,Start Pre-Purge,1,80 
+16:18:01,005 2016-05-26,Start Pre-Purge,1,90 
+16:18:01,106 2016-05-26,Start Pre-Purge,2,00 
+16:18:01,205 2016-05-26,Start Pre-Purge,2,10 
+16:18:01,305 2016-05-26,Start Pre-Purge,2,20 
+16:18:01,405 2016-05-26,Start Pre-Purge,2,30 
+16:18:01,505 2016-05-26,Start Pre-Purge,2,40 
+16:18:01,605 2016-05-26,Start Pre-Purge,2,50 
+16:18:01,705 2016-05-26,Start Pre-Purge,2,60 
+16:18:01,805 2016-05-26,Start Pre-Purge,2,70 
+16:18:01,905 2016-05-26,Start Pre-Purge,2,80 
+16:18:02,005 2016-05-26,Start Pre-Purge,2,90 
+16:18:02,105 2016-05-26,Start Pre-Purge,3,00 
+16:18:02,207 2016-05-26,Start Pre-Purge,3,10 
+16:18:02,306 2016-05-26,Start Pre-Purge,3,20 
+16:18:02,406 2016-05-26,Start Pre-Purge,3,30 
+16:18:02,506 2016-05-26,Start Pre-Purge,3,40 
+16:18:02,606 2016-05-26,Start Pre-Purge,3,50 
+16:18:02,706 2016-05-26,Start Pre-Purge,3,60 
+16:18:02,806 2016-05-26,Start Pre-Purge,3,70 
+16:18:02,906 2016-05-26,Start Pre-Purge,3,80 
+16:18:03,007 2016-05-26,Start Pre-Purge,3,90 
+16:18:03,108 2016-05-26,Start Pre-Purge,4,00 
+16:18:03,209 2016-05-26,Start Pre-Purge,4,10 
+16:18:03,309 2016-05-26,Start Pre-Purge,4,21 
+16:18:03,409 2016-05-26,Start Pre-Purge,4,30 
+16:18:03,509 2016-05-26,Start Pre-Purge,4,40 
+16:18:03,609 2016-05-26,Start Pre-Purge,4,51 
+16:18:03,709 2016-05-26,Start Pre-Purge,4,61 
+16:18:03,809 2016-05-26,Start Pre-Purge,4,70 
+16:18:03,909 2016-05-26,Start Pre-Purge,4,80 
+16:18:04,009 2016-05-26,Start Pre-Purge,4,91 
+16:18:04,109 2016-05-26,Start Pre-Purge,5,01 
+16:18:04,210 2016-05-26,Start Pre-Purge,5,11 
+16:18:04,310 2016-05-26,Start Pre-Purge,5,21 
+16:18:04,410 2016-05-26,Start Pre-Purge,5,31 
+16:18:04,510 2016-05-26,Start Pre-Purge,5,41 
+16:18:04,610 2016-05-26,Start Pre-Purge,5,51 
+16:18:04,710 2016-05-26,Start Pre-Purge,5,61 
+16:18:04,810 2016-05-26,Start Pre-Purge,5,71 
+16:18:04,910 2016-05-26,Start Pre-Purge,5,81 
+16:18:05,010 2016-05-26,Start Pre-Purge,5,91 
+16:18:05,111 2016-05-26,Start Pre-Purge,6,01 
+16:18:05,211 2016-05-26,Start Pre-Purge,6,11 
+16:18:05,312 2016-05-26,Start Pre-Purge,6,21 
+16:18:05,411 2016-05-26,Start Pre-Purge,6,31 
+16:18:05,511 2016-05-26,Start Pre-Purge,6,41 
+16:18:05,611 2016-05-26,Start Pre-Purge,6,51 
+16:18:05,711 2016-05-26,Start Pre-Purge,6,61 
+16:18:05,811 2016-05-26,Start Pre-Purge,6,71 
+16:18:05,911 2016-05-26,Start Pre-Purge,6,81 
+16:18:06,011 2016-05-26,Start Pre-Purge,6,91 
+16:18:06,111 2016-05-26,Start Pre-Purge,7,01 
+16:18:06,212 2016-05-26,Start Pre-Purge,7,11 
+16:18:06,313 2016-05-26,Start Pre-Purge,7,21 
+16:18:06,412 2016-05-26,Start Pre-Purge,7,31 
+16:18:06,512 2016-05-26,Start Pre-Purge,7,41 
+16:18:06,612 2016-05-26,Start Pre-Purge,7,51 
+16:18:06,712 2016-05-26,Start Pre-Purge,7,61 
+16:18:06,812 2016-05-26,Start Pre-Purge,7,71 
+16:18:06,913 2016-05-26,Start Pre-Purge,7,81 
+16:18:07,013 2016-05-26,Start Pre-Purge,7,91 
+16:18:07,113 2016-05-26,Start Pre-Purge,8,01 
+16:18:07,214 2016-05-26,Start Pre-Purge,8,11 
+16:18:07,313 2016-05-26,Start Pre-Purge,8,21 
+16:18:07,413 2016-05-26,Start Pre-Purge,8,31 
+16:18:07,513 2016-05-26,Start Pre-Purge,8,41 
+16:18:07,613 2016-05-26,Start Pre-Purge,8,51 
+16:18:07,713 2016-05-26,Start Pre-Purge,8,61 
+16:18:07,813 2016-05-26,Start Pre-Purge,8,71 
+16:18:07,913 2016-05-26,Start Pre-Purge,8,81 
+16:18:08,013 2016-05-26,Start Pre-Purge,8,91 
+16:18:08,113 2016-05-26,Start Pre-Purge,9,01 
+16:18:08,213 2016-05-26,Start Pre-Purge,9,11 
+16:18:08,313 2016-05-26,Start Pre-Purge,9,21 
+16:18:08,413 2016-05-26,Start Pre-Purge,9,31 
+16:18:08,513 2016-05-26,Start Pre-Purge,9,41 
+16:18:08,613 2016-05-26,Start Pre-Purge,9,51 
+16:18:08,713 2016-05-26,Start Pre-Purge,9,61 
+16:18:08,813 2016-05-26,Start Pre-Purge,9,71 
+16:18:08,913 2016-05-26,Start Pre-Purge,9,81 
+16:18:09,013 2016-05-26,Start Pre-Purge,9,91 
+16:18:09,113 2016-05-26,Start Pre-Purge,10,01 
+16:18:09,213 2016-05-26,Pre-Purge Complete,10,00 
+16:18:35,648 2016-05-26,Pilot ON,True 
+16:18:53,364 2016-05-26,Pilot Proved,40,34 
+16:18:53,464 2016-05-26,Pilot Proved,43,70 
+16:18:53,565 2016-05-26,Pilot Proved,44,54 
+16:19:03,876 2016-05-26,Forced Draft Fan ON,True 
+16:19:16,092 2016-05-26,Boiler Running,15,98 
+16:19:16,192 2016-05-26,Boiler Running,19,77 
+16:19:16,292 2016-05-26,Boiler Running,22,63 
+16:19:17,093 2016-05-26,Boiler Running,23,36 
+16:19:17,194 2016-05-26,Boiler Running,24,40 
+16:19:17,294 2016-05-26,Boiler Running,24,73 
+16:19:17,395 2016-05-26,Boiler Running,25,05 
+16:19:17,494 2016-05-26,Boiler Running,25,37 
+16:19:17,895 2016-05-26,Boiler Running,25,67 
+16:19:34,016 2016-05-26,Boiler Running,63,84 
+16:19:34,116 2016-05-26,Boiler Running,72,24 
+16:19:34,216 2016-05-26,Boiler Running,78,67 
+16:19:34,316 2016-05-26,Start Shutdown Purge,0,00 
+16:19:34,416 2016-05-26,Start Shutdown Purge,0,10 
+16:19:34,516 2016-05-26,Start Shutdown Purge,0,20 
+16:19:34,616 2016-05-26,Start Shutdown Purge,0,30 
+16:19:34,717 2016-05-26,Start Shutdown Purge,0,40 
+16:19:34,816 2016-05-26,Start Shutdown Purge,0,50 
+16:19:34,916 2016-05-26,Start Shutdown Purge,0,60 
+16:19:35,017 2016-05-26,Start Shutdown Purge,0,70 
+16:19:35,116 2016-05-26,Start Shutdown Purge,0,80 
+16:19:35,216 2016-05-26,Start Shutdown Purge,0,90 
+16:19:35,316 2016-05-26,Start Shutdown Purge,1,00 
+16:19:35,418 2016-05-26,Start Shutdown Purge,1,10 
+16:19:35,517 2016-05-26,Start Shutdown Purge,1,20 
+16:19:35,617 2016-05-26,Start Shutdown Purge,1,30 
+16:19:35,717 2016-05-26,Start Shutdown Purge,1,40 
+16:19:35,817 2016-05-26,Start Shutdown Purge,1,50 
+16:19:35,917 2016-05-26,Start Shutdown Purge,1,60 
+16:19:36,017 2016-05-26,Start Shutdown Purge,1,70 
+16:19:36,117 2016-05-26,Start Shutdown Purge,1,80 
+16:19:36,217 2016-05-26,Start Shutdown Purge,1,90 
+16:19:36,319 2016-05-26,Start Shutdown Purge,2,00 
+16:19:36,419 2016-05-26,Start Shutdown Purge,2,10 
+16:19:36,519 2016-05-26,Start Shutdown Purge,2,20 
+16:19:36,619 2016-05-26,Start Shutdown Purge,2,30 
+16:19:36,719 2016-05-26,Start Shutdown Purge,2,40 
+16:19:36,819 2016-05-26,Start Shutdown Purge,2,50 
+16:19:36,919 2016-05-26,Start Shutdown Purge,2,60 
+16:19:37,019 2016-05-26,Start Shutdown Purge,2,70 
+16:19:37,119 2016-05-26,Start Shutdown Purge,2,80 
+16:19:37,219 2016-05-26,Start Shutdown Purge,2,90 
+16:19:37,319 2016-05-26,Start Shutdown Purge,3,00 
+16:19:37,419 2016-05-26,Start Shutdown Purge,3,10 
+16:19:37,519 2016-05-26,Start Shutdown Purge,3,20 
+16:19:37,619 2016-05-26,Start Shutdown Purge,3,30 
+16:19:37,719 2016-05-26,Start Shutdown Purge,3,40 
+16:19:37,820 2016-05-26,Start Shutdown Purge,3,50 
+16:19:37,920 2016-05-26,Start Shutdown Purge,3,60 
+16:19:38,020 2016-05-26,Start Shutdown Purge,3,70 
+16:19:38,120 2016-05-26,Start Shutdown Purge,3,80 
+16:19:38,220 2016-05-26,Start Shutdown Purge,3,90 
+16:19:38,321 2016-05-26,Start Shutdown Purge,4,00 
+16:19:38,420 2016-05-26,Start Shutdown Purge,4,10 
+16:19:38,520 2016-05-26,Start Shutdown Purge,4,20 
+16:19:38,620 2016-05-26,Start Shutdown Purge,4,30 
+16:19:38,720 2016-05-26,Start Shutdown Purge,4,40 
+16:19:38,820 2016-05-26,Start Shutdown Purge,4,50 
+16:19:38,920 2016-05-26,Start Shutdown Purge,4,60 
+16:19:39,021 2016-05-26,Start Shutdown Purge,4,71 
+16:19:39,122 2016-05-26,Start Shutdown Purge,4,81 
+16:19:39,222 2016-05-26,Start Shutdown Purge,4,91 
+16:19:39,322 2016-05-26,Start Shutdown Purge,5,01 
+16:19:39,423 2016-05-26,Start Shutdown Purge,5,11 
+16:19:39,523 2016-05-26,Start Shutdown Purge,5,21 
+16:19:39,623 2016-05-26,Start Shutdown Purge,5,31 
+16:19:39,723 2016-05-26,Start Shutdown Purge,5,41 
+16:19:39,823 2016-05-26,Start Shutdown Purge,5,51 
+16:19:39,923 2016-05-26,Start Shutdown Purge,5,61 
+16:19:40,023 2016-05-26,Start Shutdown Purge,5,71 
+16:19:40,123 2016-05-26,Start Shutdown Purge,5,81 
+16:19:40,223 2016-05-26,Start Shutdown Purge,5,91 
+16:19:40,323 2016-05-26,Start Shutdown Purge,6,01 
+16:19:40,423 2016-05-26,Start Shutdown Purge,6,11 
+16:19:40,525 2016-05-26,Start Shutdown Purge,6,21 
+16:19:40,624 2016-05-26,Start Shutdown Purge,6,31 
+16:19:40,726 2016-05-26,Start Shutdown Purge,6,41 
+16:19:40,825 2016-05-26,Start Shutdown Purge,6,51 
+16:19:40,925 2016-05-26,Start Shutdown Purge,6,61 
+16:19:41,025 2016-05-26,Start Shutdown Purge,6,71 
+16:19:41,125 2016-05-26,Start Shutdown Purge,6,81 
+16:19:41,225 2016-05-26,Start Shutdown Purge,6,91 
+16:19:41,325 2016-05-26,Start Shutdown Purge,7,01 
+16:19:41,425 2016-05-26,Start Shutdown Purge,7,11 
+16:19:41,525 2016-05-26,Start Shutdown Purge,7,21 
+16:19:41,625 2016-05-26,Start Shutdown Purge,7,31 
+16:19:41,725 2016-05-26,Start Shutdown Purge,7,41 
+16:19:41,825 2016-05-26,Start Shutdown Purge,7,51 
+16:19:41,925 2016-05-26,Start Shutdown Purge,7,61 
+16:19:42,026 2016-05-26,Start Shutdown Purge,7,71 
+16:19:42,126 2016-05-26,Start Shutdown Purge,7,81 
+16:19:42,226 2016-05-26,Start Shutdown Purge,7,91 
+16:19:42,327 2016-05-26,Start Shutdown Purge,8,01 
+16:19:42,427 2016-05-26,Start Shutdown Purge,8,11 
+16:19:42,527 2016-05-26,Start Shutdown Purge,8,21 
+16:19:42,627 2016-05-26,Start Shutdown Purge,8,31 
+16:19:42,727 2016-05-26,Start Shutdown Purge,8,41 
+16:19:42,827 2016-05-26,Start Shutdown Purge,8,51 
+16:19:42,927 2016-05-26,Start Shutdown Purge,8,61 
+16:19:43,027 2016-05-26,Start Shutdown Purge,8,71 
+16:19:43,128 2016-05-26,Start Shutdown Purge,8,81 
+16:19:43,230 2016-05-26,Start Shutdown Purge,8,91 
+16:19:43,329 2016-05-26,Start Shutdown Purge,9,01 
+16:19:43,429 2016-05-26,Start Shutdown Purge,9,11 
+16:19:43,529 2016-05-26,Start Shutdown Purge,9,21 
+16:19:43,629 2016-05-26,Start Shutdown Purge,9,31 
+16:19:43,729 2016-05-26,Start Shutdown Purge,9,41 
+16:19:43,829 2016-05-26,Start Shutdown Purge,9,51 
+16:19:43,929 2016-05-26,Start Shutdown Purge,9,61 
+16:19:44,030 2016-05-26,Start Shutdown Purge,9,71 
+16:19:44,130 2016-05-26,Start Shutdown Purge,9,81 
+16:19:44,232 2016-05-26,Start Shutdown Purge,9,92 
+16:19:44,332 2016-05-26,Start Shutdown Purge,10,02 
+16:19:44,432 2016-05-26,Boiler Initialized,0 
+16:20:01,858 2016-05-26,Boiler Ready,0 
+16:20:04,559 2016-05-26,Start Pre-Purge,0,00 
+16:20:04,660 2016-05-26,Start Pre-Purge,0,10 
+16:20:04,759 2016-05-26,Start Pre-Purge,0,20 
+16:20:04,860 2016-05-26,Start Pre-Purge,0,30 
+16:20:04,959 2016-05-26,Start Pre-Purge,0,40 
+16:20:05,060 2016-05-26,Start Pre-Purge,0,50 
+16:20:05,159 2016-05-26,Start Pre-Purge,0,60 
+16:20:05,259 2016-05-26,Start Pre-Purge,0,70 
+16:20:05,359 2016-05-26,Start Pre-Purge,0,80 
+16:20:05,461 2016-05-26,Start Pre-Purge,0,90 
+16:20:05,560 2016-05-26,Start Pre-Purge,1,00 
+16:20:05,660 2016-05-26,Start Pre-Purge,1,10 
+16:20:05,760 2016-05-26,Start Pre-Purge,1,20 
+16:20:05,860 2016-05-26,Start Pre-Purge,1,30 
+16:20:05,960 2016-05-26,Start Pre-Purge,1,40 
+16:20:06,060 2016-05-26,Start Pre-Purge,1,50 
+16:20:06,160 2016-05-26,Start Pre-Purge,1,60 
+16:20:06,260 2016-05-26,Start Pre-Purge,1,70 
+16:20:06,360 2016-05-26,Start Pre-Purge,1,80 
+16:20:06,460 2016-05-26,Start Pre-Purge,1,90 
+16:20:06,561 2016-05-26,Start Pre-Purge,2,00 
+16:20:06,660 2016-05-26,Start Pre-Purge,2,10 
+16:20:06,761 2016-05-26,Start Pre-Purge,2,20 
+16:20:06,861 2016-05-26,Start Pre-Purge,2,30 
+16:20:06,961 2016-05-26,Start Pre-Purge,2,40 
+16:20:07,061 2016-05-26,Start Pre-Purge,2,50 
+16:20:07,161 2016-05-26,Start Pre-Purge,2,60 
+16:20:07,261 2016-05-26,Start Pre-Purge,2,70 
+16:20:07,363 2016-05-26,Start Pre-Purge,2,80 
+16:20:07,462 2016-05-26,Start Pre-Purge,2,90 
+16:20:07,563 2016-05-26,Start Pre-Purge,3,00 
+16:20:07,662 2016-05-26,Start Pre-Purge,3,10 
+16:20:07,762 2016-05-26,Start Pre-Purge,3,20 
+16:20:07,862 2016-05-26,Start Pre-Purge,3,30 
+16:20:07,962 2016-05-26,Start Pre-Purge,3,40 
+16:20:08,062 2016-05-26,Start Pre-Purge,3,50 
+16:20:08,162 2016-05-26,Start Pre-Purge,3,60 
+16:20:08,262 2016-05-26,Start Pre-Purge,3,70 
+16:20:08,362 2016-05-26,Start Pre-Purge,3,80 
+16:20:08,462 2016-05-26,Start Pre-Purge,3,90 
+16:20:08,562 2016-05-26,Start Pre-Purge,4,00 
+16:20:08,662 2016-05-26,Start Pre-Purge,4,10 
+16:20:08,762 2016-05-26,Start Pre-Purge,4,20 
+16:20:08,862 2016-05-26,Start Pre-Purge,4,30 
+16:20:08,962 2016-05-26,Start Pre-Purge,4,40 
+16:20:09,062 2016-05-26,Start Pre-Purge,4,50 
+16:20:09,163 2016-05-26,Start Pre-Purge,4,60 
+16:20:09,264 2016-05-26,Start Pre-Purge,4,70 
+16:20:09,364 2016-05-26,Start Pre-Purge,4,80 
+16:20:09,463 2016-05-26,Start Pre-Purge,4,90 
+16:20:09,563 2016-05-26,Start Pre-Purge,5,00 
+16:20:09,663 2016-05-26,Start Pre-Purge,5,10 
+16:20:09,763 2016-05-26,Start Pre-Purge,5,20 
+16:20:09,863 2016-05-26,Start Pre-Purge,5,30 
+16:20:09,963 2016-05-26,Start Pre-Purge,5,40 
+16:20:10,063 2016-05-26,Start Pre-Purge,5,50 
+16:20:10,164 2016-05-26,Start Pre-Purge,5,60 
+16:20:10,264 2016-05-26,Start Pre-Purge,5,70 
+16:20:10,363 2016-05-26,Start Pre-Purge,5,80 
+16:20:10,463 2016-05-26,Start Pre-Purge,5,90 
+16:20:10,564 2016-05-26,Start Pre-Purge,6,01 
+16:20:10,665 2016-05-26,Start Pre-Purge,6,11 
+16:20:10,764 2016-05-26,Start Pre-Purge,6,20 
+16:20:10,865 2016-05-26,Start Pre-Purge,6,31 
+16:20:10,964 2016-05-26,Start Pre-Purge,6,41 
+16:20:11,065 2016-05-26,Start Pre-Purge,6,51 
+16:20:11,165 2016-05-26,Start Pre-Purge,6,61 
+16:20:11,265 2016-05-26,Start Pre-Purge,6,71 
+16:20:11,366 2016-05-26,Start Pre-Purge,6,81 
+16:20:11,466 2016-05-26,Start Pre-Purge,6,91 
+16:20:11,565 2016-05-26,Start Pre-Purge,7,01 
+16:20:11,665 2016-05-26,Start Pre-Purge,7,11 
+16:20:11,765 2016-05-26,Start Pre-Purge,7,21 
+16:20:11,865 2016-05-26,Start Pre-Purge,7,31 
+16:20:11,965 2016-05-26,Start Pre-Purge,7,41 
+16:20:12,065 2016-05-26,Start Pre-Purge,7,51 
+16:20:12,165 2016-05-26,Start Pre-Purge,7,61 
+16:20:12,265 2016-05-26,Start Pre-Purge,7,71 
+16:20:12,365 2016-05-26,Start Pre-Purge,7,81 
+16:20:12,466 2016-05-26,Start Pre-Purge,7,91 
+16:20:12,566 2016-05-26,Start Pre-Purge,8,01 
+16:20:12,666 2016-05-26,Start Pre-Purge,8,11 
+16:20:12,766 2016-05-26,Start Pre-Purge,8,21 
+16:20:12,866 2016-05-26,Start Pre-Purge,8,31 
+16:20:12,966 2016-05-26,Start Pre-Purge,8,41 
+16:20:13,066 2016-05-26,Start Pre-Purge,8,51 
+16:20:13,168 2016-05-26,Start Pre-Purge,8,61 
+16:20:13,269 2016-05-26,Start Pre-Purge,8,71 
+16:20:13,368 2016-05-26,Start Pre-Purge,8,81 
+16:20:13,468 2016-05-26,Start Pre-Purge,8,91 
+16:20:13,568 2016-05-26,Start Pre-Purge,9,01 
+16:20:13,669 2016-05-26,Start Pre-Purge,9,11 
+16:20:13,769 2016-05-26,Start Pre-Purge,9,21 
+16:20:13,869 2016-05-26,Start Pre-Purge,9,31 
+16:20:13,970 2016-05-26,Start Pre-Purge,9,41 
+16:20:14,070 2016-05-26,Start Pre-Purge,9,51 
+16:20:14,170 2016-05-26,Start Pre-Purge,9,61 
+16:20:14,270 2016-05-26,Start Pre-Purge,9,71 
+16:20:14,370 2016-05-26,Start Pre-Purge,9,81 
+16:20:14,470 2016-05-26,Start Pre-Purge,9,91 
+16:20:14,571 2016-05-26,Start Pre-Purge,10,01 
+16:20:14,670 2016-05-26,Pre-Purge Complete,10,00 
+16:20:21,379 2016-05-26,Pilot ON,True 
+16:20:25,684 2016-05-26,Pilot Proved,58,82 
+16:20:33,089 2016-05-26,Forced Draft Fan ON,True 
+16:20:33,189 2016-05-26,Boiler Running,13,76 
+16:20:35,391 2016-05-26,Start Shutdown Purge,0,00 
+16:20:35,492 2016-05-26,Start Shutdown Purge,0,10 
+16:20:35,592 2016-05-26,Start Shutdown Purge,0,20 
+16:20:35,692 2016-05-26,Start Shutdown Purge,0,30 
+16:20:35,792 2016-05-26,Start Shutdown Purge,0,40 
+16:20:35,892 2016-05-26,Start Shutdown Purge,0,50 
+16:20:35,992 2016-05-26,Start Shutdown Purge,0,60 
+16:20:36,092 2016-05-26,Start Shutdown Purge,0,70 
+16:20:36,192 2016-05-26,Start Shutdown Purge,0,80 
+16:20:36,292 2016-05-26,Start Shutdown Purge,0,90 
+16:20:36,392 2016-05-26,Start Shutdown Purge,1,00 
+16:20:36,492 2016-05-26,Start Shutdown Purge,1,10 
+16:20:36,592 2016-05-26,Start Shutdown Purge,1,20 
+16:20:36,692 2016-05-26,Start Shutdown Purge,1,30 
+16:20:36,793 2016-05-26,Start Shutdown Purge,1,40 
+16:20:36,895 2016-05-26,Start Shutdown Purge,1,50 
+16:20:36,994 2016-05-26,Start Shutdown Purge,1,60 
+16:20:37,094 2016-05-26,Start Shutdown Purge,1,70 
+16:20:37,194 2016-05-26,Start Shutdown Purge,1,80 
+16:20:37,295 2016-05-26,Start Shutdown Purge,1,90 
+16:20:37,395 2016-05-26,Start Shutdown Purge,2,00 
+16:20:37,496 2016-05-26,Start Shutdown Purge,2,10 
+16:20:37,595 2016-05-26,Start Shutdown Purge,2,20 
+16:20:37,695 2016-05-26,Start Shutdown Purge,2,30 
+16:20:37,795 2016-05-26,Start Shutdown Purge,2,40 
+16:20:37,895 2016-05-26,Start Shutdown Purge,2,50 
+16:20:37,995 2016-05-26,Start Shutdown Purge,2,60 
+16:20:38,095 2016-05-26,Start Shutdown Purge,2,70 
+16:20:38,195 2016-05-26,Start Shutdown Purge,2,80 
+16:20:38,296 2016-05-26,Start Shutdown Purge,2,90 
+16:20:38,395 2016-05-26,Start Shutdown Purge,3,00 
+16:20:38,497 2016-05-26,Start Shutdown Purge,3,11 
+16:20:38,596 2016-05-26,Start Shutdown Purge,3,21 
+16:20:38,696 2016-05-26,Start Shutdown Purge,3,31 
+16:20:38,796 2016-05-26,Start Shutdown Purge,3,41 
+16:20:38,897 2016-05-26,Start Shutdown Purge,3,51 
+16:20:38,996 2016-05-26,Start Shutdown Purge,3,61 
+16:20:39,096 2016-05-26,Start Shutdown Purge,3,71 
+16:20:39,197 2016-05-26,Start Shutdown Purge,3,81 
+16:20:39,297 2016-05-26,Start Shutdown Purge,3,91 
+16:20:39,397 2016-05-26,Start Shutdown Purge,4,01 
+16:20:39,497 2016-05-26,Start Shutdown Purge,4,11 
+16:20:39,597 2016-05-26,Start Shutdown Purge,4,21 
+16:20:39,697 2016-05-26,Start Shutdown Purge,4,31 
+16:20:39,797 2016-05-26,Start Shutdown Purge,4,41 
+16:20:39,897 2016-05-26,Start Shutdown Purge,4,51 
+16:20:39,997 2016-05-26,Start Shutdown Purge,4,61 
+16:20:40,097 2016-05-26,Start Shutdown Purge,4,71 
+16:20:40,198 2016-05-26,Start Shutdown Purge,4,81 
+16:20:40,299 2016-05-26,Start Shutdown Purge,4,91 
+16:20:40,401 2016-05-26,Start Shutdown Purge,5,01 
+16:20:40,501 2016-05-26,Start Shutdown Purge,5,11 
+16:20:40,601 2016-05-26,Start Shutdown Purge,5,21 
+16:20:40,701 2016-05-26,Start Shutdown Purge,5,31 
+16:20:40,801 2016-05-26,Start Shutdown Purge,5,41 
+16:20:40,901 2016-05-26,Start Shutdown Purge,5,51 
+16:20:41,001 2016-05-26,Start Shutdown Purge,5,61 
+16:20:41,101 2016-05-26,Start Shutdown Purge,5,71 
+16:20:41,201 2016-05-26,Start Shutdown Purge,5,81 
+16:20:41,301 2016-05-26,Start Shutdown Purge,5,91 
+16:20:41,401 2016-05-26,Start Shutdown Purge,6,01 
+16:20:41,501 2016-05-26,Start Shutdown Purge,6,11 
+16:20:41,602 2016-05-26,Start Shutdown Purge,6,21 
+16:20:41,703 2016-05-26,Start Shutdown Purge,6,31 
+16:20:41,804 2016-05-26,Start Shutdown Purge,6,41 
+16:20:41,903 2016-05-26,Start Shutdown Purge,6,51 
+16:20:42,003 2016-05-26,Start Shutdown Purge,6,61 
+16:20:42,103 2016-05-26,Start Shutdown Purge,6,71 
+16:20:42,203 2016-05-26,Start Shutdown Purge,6,81 
+16:20:42,303 2016-05-26,Start Shutdown Purge,6,91 
+16:20:42,403 2016-05-26,Start Shutdown Purge,7,01 
+16:20:42,503 2016-05-26,Start Shutdown Purge,7,11 
+16:20:42,603 2016-05-26,Start Shutdown Purge,7,21 
+16:20:42,703 2016-05-26,Start Shutdown Purge,7,31 
+16:20:42,803 2016-05-26,Start Shutdown Purge,7,41 
+16:20:42,903 2016-05-26,Start Shutdown Purge,7,51 
+16:20:43,003 2016-05-26,Start Shutdown Purge,7,61 
+16:20:43,103 2016-05-26,Start Shutdown Purge,7,71 
+16:20:43,204 2016-05-26,Start Shutdown Purge,7,81 
+16:20:43,303 2016-05-26,Start Shutdown Purge,7,91 
+16:20:43,403 2016-05-26,Start Shutdown Purge,8,01 
+16:20:43,503 2016-05-26,Start Shutdown Purge,8,11 
+16:20:43,604 2016-05-26,Start Shutdown Purge,8,21 
+16:20:43,704 2016-05-26,Start Shutdown Purge,8,31 
+16:20:43,804 2016-05-26,Start Shutdown Purge,8,41 
+16:20:43,904 2016-05-26,Start Shutdown Purge,8,51 
+16:20:44,004 2016-05-26,Start Shutdown Purge,8,61 
+16:20:44,104 2016-05-26,Start Shutdown Purge,8,71 
+16:20:44,204 2016-05-26,Start Shutdown Purge,8,81 
+16:20:44,304 2016-05-26,Start Shutdown Purge,8,91 
+16:20:44,404 2016-05-26,Start Shutdown Purge,9,01 
+16:20:44,504 2016-05-26,Start Shutdown Purge,9,11 
+16:20:44,604 2016-05-26,Start Shutdown Purge,9,21 
+16:20:44,704 2016-05-26,Start Shutdown Purge,9,31 
+16:20:44,804 2016-05-26,Start Shutdown Purge,9,41 
+16:20:44,904 2016-05-26,Start Shutdown Purge,9,51 
+16:20:45,004 2016-05-26,Start Shutdown Purge,9,61 
+16:20:45,104 2016-05-26,Start Shutdown Purge,9,71 
+16:20:45,204 2016-05-26,Start Shutdown Purge,9,81 
+16:20:45,305 2016-05-26,Start Shutdown Purge,9,91 
+16:20:45,404 2016-05-26,Start Shutdown Purge,10,01 
+16:20:45,504 2016-05-26,Boiler Initialized,0 
+17:43:26,563 2016-05-26,Boiler Initialized,0 
+17:43:45,241 2016-05-26,Boiler Ready,0 
+17:43:46,343 2016-05-26,Start Pre-Purge,0,00 
+17:43:46,442 2016-05-26,Start Pre-Purge,0,10 
+17:43:46,544 2016-05-26,Start Pre-Purge,0,20 
+17:43:46,644 2016-05-26,Start Pre-Purge,0,30 
+17:43:46,743 2016-05-26,Start Pre-Purge,0,40 
+17:43:46,845 2016-05-26,Start Pre-Purge,0,50 
+17:43:46,944 2016-05-26,Start Pre-Purge,0,60 
+17:43:47,044 2016-05-26,Start Pre-Purge,0,70 
+17:43:47,144 2016-05-26,Start Pre-Purge,0,80 
+17:43:47,244 2016-05-26,Start Pre-Purge,0,90 
+17:43:47,344 2016-05-26,Start Pre-Purge,1,00 
+17:43:47,444 2016-05-26,Start Pre-Purge,1,10 
+17:43:47,544 2016-05-26,Start Pre-Purge,1,20 
+17:43:47,645 2016-05-26,Start Pre-Purge,1,30 
+17:43:47,744 2016-05-26,Start Pre-Purge,1,40 
+17:43:47,845 2016-05-26,Start Pre-Purge,1,50 
+17:43:47,945 2016-05-26,Start Pre-Purge,1,60 
+17:43:48,045 2016-05-26,Start Pre-Purge,1,70 
+17:43:48,145 2016-05-26,Start Pre-Purge,1,80 
+17:43:48,246 2016-05-26,Start Pre-Purge,1,90 
+17:43:48,347 2016-05-26,Start Pre-Purge,2,00 
+17:43:48,447 2016-05-26,Start Pre-Purge,2,10 
+17:43:48,547 2016-05-26,Start Pre-Purge,2,20 
+17:43:48,646 2016-05-26,Start Pre-Purge,2,30 
+17:43:48,746 2016-05-26,Start Pre-Purge,2,40 
+17:43:48,846 2016-05-26,Start Pre-Purge,2,50 
+17:43:48,947 2016-05-26,Start Pre-Purge,2,60 
+17:43:49,048 2016-05-26,Start Pre-Purge,2,71 
+17:43:49,148 2016-05-26,Start Pre-Purge,2,80 
+17:43:49,247 2016-05-26,Start Pre-Purge,2,90 
+17:43:49,347 2016-05-26,Start Pre-Purge,3,00 
+17:43:49,447 2016-05-26,Start Pre-Purge,3,10 
+17:43:49,547 2016-05-26,Start Pre-Purge,3,20 
+17:43:49,648 2016-05-26,Start Pre-Purge,3,31 
+17:43:49,747 2016-05-26,Start Pre-Purge,3,40 
+17:43:49,848 2016-05-26,Start Pre-Purge,3,51 
+17:43:49,948 2016-05-26,Start Pre-Purge,3,61 
+17:43:50,047 2016-05-26,Start Pre-Purge,3,70 
+17:43:50,148 2016-05-26,Start Pre-Purge,3,81 
+17:43:50,248 2016-05-26,Start Pre-Purge,3,90 
+17:43:50,347 2016-05-26,Start Pre-Purge,4,00 
+17:43:50,449 2016-05-26,Start Pre-Purge,4,11 
+17:43:50,549 2016-05-26,Start Pre-Purge,4,21 
+17:43:50,649 2016-05-26,Start Pre-Purge,4,31 
+17:43:50,750 2016-05-26,Start Pre-Purge,4,41 
+17:43:50,850 2016-05-26,Start Pre-Purge,4,51 
+17:43:50,950 2016-05-26,Start Pre-Purge,4,61 
+17:43:51,050 2016-05-26,Start Pre-Purge,4,71 
+17:43:51,149 2016-05-26,Start Pre-Purge,4,81 
+17:43:51,250 2016-05-26,Start Pre-Purge,4,91 
+17:43:51,350 2016-05-26,Start Pre-Purge,5,01 
+17:43:51,450 2016-05-26,Start Pre-Purge,5,11 
+17:43:51,549 2016-05-26,Start Pre-Purge,5,21 
+17:43:51,649 2016-05-26,Start Pre-Purge,5,31 
+17:43:51,749 2016-05-26,Start Pre-Purge,5,41 
+17:43:51,849 2016-05-26,Start Pre-Purge,5,51 
+17:43:51,949 2016-05-26,Start Pre-Purge,5,61 
+17:43:52,049 2016-05-26,Start Pre-Purge,5,71 
+17:43:52,149 2016-05-26,Start Pre-Purge,5,81 
+17:43:52,250 2016-05-26,Start Pre-Purge,5,91 
+17:43:52,349 2016-05-26,Start Pre-Purge,6,01 
+17:43:52,449 2016-05-26,Start Pre-Purge,6,11 
+17:43:52,549 2016-05-26,Start Pre-Purge,6,21 
+17:43:52,649 2016-05-26,Start Pre-Purge,6,31 
+17:43:52,750 2016-05-26,Start Pre-Purge,6,41 
+17:43:52,850 2016-05-26,Start Pre-Purge,6,51 
+17:43:52,949 2016-05-26,Start Pre-Purge,6,61 
+17:43:53,050 2016-05-26,Start Pre-Purge,6,71 
+17:43:53,150 2016-05-26,Start Pre-Purge,6,81 
+17:43:53,249 2016-05-26,Start Pre-Purge,6,91 
+17:43:53,349 2016-05-26,Start Pre-Purge,7,01 
+17:43:53,449 2016-05-26,Start Pre-Purge,7,11 
+17:43:53,550 2016-05-26,Start Pre-Purge,7,21 
+17:43:53,649 2016-05-26,Start Pre-Purge,7,31 
+17:43:53,750 2016-05-26,Start Pre-Purge,7,41 
+17:43:53,849 2016-05-26,Start Pre-Purge,7,51 
+17:43:53,949 2016-05-26,Start Pre-Purge,7,61 
+17:43:54,049 2016-05-26,Start Pre-Purge,7,71 
+17:43:54,150 2016-05-26,Start Pre-Purge,7,81 
+17:43:54,250 2016-05-26,Start Pre-Purge,7,91 
+17:43:54,349 2016-05-26,Start Pre-Purge,8,01 
+17:43:54,450 2016-05-26,Start Pre-Purge,8,11 
+17:43:54,551 2016-05-26,Start Pre-Purge,8,21 
+17:43:54,650 2016-05-26,Start Pre-Purge,8,31 
+17:43:54,750 2016-05-26,Start Pre-Purge,8,41 
+17:43:54,851 2016-05-26,Start Pre-Purge,8,51 
+17:43:54,952 2016-05-26,Start Pre-Purge,8,61 
+17:43:55,051 2016-05-26,Start Pre-Purge,8,71 
+17:43:55,152 2016-05-26,Start Pre-Purge,8,81 
+17:43:55,251 2016-05-26,Start Pre-Purge,8,91 
+17:43:55,352 2016-05-26,Start Pre-Purge,9,01 
+17:43:55,452 2016-05-26,Start Pre-Purge,9,11 
+17:43:55,551 2016-05-26,Start Pre-Purge,9,21 
+17:43:55,652 2016-05-26,Start Pre-Purge,9,31 
+17:43:55,752 2016-05-26,Start Pre-Purge,9,41 
+17:43:55,851 2016-05-26,Start Pre-Purge,9,51 
+17:43:55,951 2016-05-26,Start Pre-Purge,9,61 
+17:43:56,051 2016-05-26,Start Pre-Purge,9,71 
+17:43:56,151 2016-05-26,Start Pre-Purge,9,81 
+17:43:56,252 2016-05-26,Start Pre-Purge,9,91 
+17:43:56,352 2016-05-26,Start Pre-Purge,10,01 
+17:43:56,452 2016-05-26,Pre-Purge Complete,10,00 
+18:02:01,326 2016-05-26,Boiler Initialized,0 
+18:02:19,335 2016-05-26,Boiler Ready,0 
+18:02:32,766 2016-05-26,Boiler Initialized,0 
+18:02:44,883 2016-05-26,Boiler Ready,0 
+18:02:46,283 2016-05-26,Start Pre-Purge,0,00 
+18:02:46,384 2016-05-26,Start Pre-Purge,0,10 
+18:02:46,483 2016-05-26,Start Pre-Purge,0,20 
+18:02:46,584 2016-05-26,Start Pre-Purge,0,30 
+18:02:46,683 2016-05-26,Start Pre-Purge,0,40 
+18:02:46,783 2016-05-26,Start Pre-Purge,0,50 
+18:02:46,883 2016-05-26,Start Pre-Purge,0,60 
+18:02:46,984 2016-05-26,Start Pre-Purge,0,70 
+18:02:47,086 2016-05-26,Start Pre-Purge,0,80 
+18:02:47,185 2016-05-26,Start Pre-Purge,0,90 
+18:02:47,287 2016-05-26,Start Pre-Purge,1,00 
+18:02:47,387 2016-05-26,Start Pre-Purge,1,10 
+18:02:47,486 2016-05-26,Start Pre-Purge,1,20 
+18:02:47,586 2016-05-26,Start Pre-Purge,1,30 
+18:02:47,686 2016-05-26,Start Pre-Purge,1,40 
+18:02:47,787 2016-05-26,Start Pre-Purge,1,50 
+18:02:47,888 2016-05-26,Start Pre-Purge,1,60 
+18:02:47,989 2016-05-26,Start Pre-Purge,1,71 
+18:02:48,090 2016-05-26,Start Pre-Purge,1,81 
+18:02:48,190 2016-05-26,Start Pre-Purge,1,91 
+18:02:48,290 2016-05-26,Start Pre-Purge,2,01 
+18:02:48,389 2016-05-26,Start Pre-Purge,2,11 
+18:02:48,489 2016-05-26,Start Pre-Purge,2,21 
+18:02:48,589 2016-05-26,Start Pre-Purge,2,31 
+18:02:48,689 2016-05-26,Start Pre-Purge,2,41 
+18:02:48,789 2016-05-26,Start Pre-Purge,2,51 
+18:02:48,890 2016-05-26,Start Pre-Purge,2,61 
+18:02:48,989 2016-05-26,Start Pre-Purge,2,71 
+18:02:49,089 2016-05-26,Start Pre-Purge,2,81 
+18:02:49,189 2016-05-26,Start Pre-Purge,2,91 
+18:02:49,290 2016-05-26,Start Pre-Purge,3,01 
+18:02:49,391 2016-05-26,Start Pre-Purge,3,11 
+18:02:49,491 2016-05-26,Start Pre-Purge,3,21 
+18:02:49,590 2016-05-26,Start Pre-Purge,3,31 
+18:02:49,691 2016-05-26,Start Pre-Purge,3,41 
+18:02:49,792 2016-05-26,Start Pre-Purge,3,51 
+18:02:49,893 2016-05-26,Start Pre-Purge,3,61 
+18:02:49,994 2016-05-26,Start Pre-Purge,3,71 
+18:02:50,093 2016-05-26,Start Pre-Purge,3,81 
+18:02:50,193 2016-05-26,Start Pre-Purge,3,91 
+18:02:50,295 2016-05-26,Start Pre-Purge,4,01 
+18:02:50,394 2016-05-26,Start Pre-Purge,4,11 
+18:02:50,494 2016-05-26,Start Pre-Purge,4,21 
+18:02:50,594 2016-05-26,Start Pre-Purge,4,31 
+18:02:50,695 2016-05-26,Start Pre-Purge,4,41 
+18:02:50,796 2016-05-26,Start Pre-Purge,4,51 
+18:02:50,896 2016-05-26,Start Pre-Purge,4,61 
+18:02:50,997 2016-05-26,Start Pre-Purge,4,71 
+18:02:51,098 2016-05-26,Start Pre-Purge,4,81 
+18:02:51,197 2016-05-26,Start Pre-Purge,4,91 
+18:02:51,298 2016-05-26,Start Pre-Purge,5,01 
+18:02:51,397 2016-05-26,Start Pre-Purge,5,11 
+18:02:51,497 2016-05-26,Start Pre-Purge,5,21 
+18:02:51,597 2016-05-26,Start Pre-Purge,5,31 
+18:02:51,698 2016-05-26,Start Pre-Purge,5,41 
+18:02:51,798 2016-05-26,Start Pre-Purge,5,51 
+18:02:51,898 2016-05-26,Start Pre-Purge,5,61 
+18:02:51,998 2016-05-26,Start Pre-Purge,5,71 
+18:02:52,098 2016-05-26,Start Pre-Purge,5,81 
+18:02:52,198 2016-05-26,Start Pre-Purge,5,91 
+18:02:52,298 2016-05-26,Start Pre-Purge,6,01 
+18:02:52,398 2016-05-26,Start Pre-Purge,6,11 
+18:02:52,497 2016-05-26,Start Pre-Purge,6,21 
+18:02:52,597 2016-05-26,Start Pre-Purge,6,31 
+18:02:52,697 2016-05-26,Start Pre-Purge,6,41 
+18:02:52,798 2016-05-26,Start Pre-Purge,6,51 
+18:02:52,897 2016-05-26,Start Pre-Purge,6,61 
+18:02:52,998 2016-05-26,Start Pre-Purge,6,71 
+18:02:53,098 2016-05-26,Start Pre-Purge,6,81 
+18:02:53,198 2016-05-26,Start Pre-Purge,6,91 
+18:02:53,297 2016-05-26,Start Pre-Purge,7,01 
+18:02:53,399 2016-05-26,Start Pre-Purge,7,12 
+18:02:53,498 2016-05-26,Start Pre-Purge,7,22 
+18:02:53,598 2016-05-26,Start Pre-Purge,7,32 
+18:02:53,700 2016-05-26,Start Pre-Purge,7,42 
+18:02:53,799 2016-05-26,Start Pre-Purge,7,52 
+18:02:53,899 2016-05-26,Start Pre-Purge,7,62 
+18:02:54,001 2016-05-26,Start Pre-Purge,7,72 
+18:02:54,102 2016-05-26,Start Pre-Purge,7,82 
+18:02:54,201 2016-05-26,Start Pre-Purge,7,92 
+18:02:54,302 2016-05-26,Start Pre-Purge,8,02 
+18:02:54,403 2016-05-26,Start Pre-Purge,8,12 
+18:02:54,503 2016-05-26,Start Pre-Purge,8,22 
+18:02:54,602 2016-05-26,Start Pre-Purge,8,32 
+18:02:54,704 2016-05-26,Start Pre-Purge,8,42 
+18:02:54,805 2016-05-26,Start Pre-Purge,8,52 
+18:02:54,905 2016-05-26,Start Pre-Purge,8,62 
+18:02:55,005 2016-05-26,Start Pre-Purge,8,72 
+18:02:55,105 2016-05-26,Start Pre-Purge,8,82 
+18:02:55,205 2016-05-26,Start Pre-Purge,8,92 
+18:02:55,305 2016-05-26,Start Pre-Purge,9,02 
+18:02:55,405 2016-05-26,Start Pre-Purge,9,12 
+18:02:55,505 2016-05-26,Start Pre-Purge,9,22 
+18:02:55,605 2016-05-26,Start Pre-Purge,9,32 
+18:02:55,704 2016-05-26,Start Pre-Purge,9,42 
+18:02:55,805 2016-05-26,Start Pre-Purge,9,52 
+18:02:55,906 2016-05-26,Start Pre-Purge,9,62 
+18:02:56,006 2016-05-26,Start Pre-Purge,9,72 
+18:02:56,105 2016-05-26,Start Pre-Purge,9,82 
+18:02:56,205 2016-05-26,Start Pre-Purge,9,92 
+18:02:56,305 2016-05-26,Start Pre-Purge,10,02 
+18:02:56,406 2016-05-26,Pre-Purge Complete,10,00 
+18:02:59,410 2016-05-26,Pilot ON,True 
+18:03:08,525 2016-05-26,Pilot Proved,48,74 
+18:03:08,625 2016-05-26,Pilot Proved,52,94 
+18:03:08,727 2016-05-26,Pilot Proved,62,18 
+18:03:08,827 2016-05-26,Pilot Proved,63,87 
+18:03:09,730 2016-05-26,Pilot Proved,50,42 
+18:03:09,832 2016-05-26,Pilot Proved,46,22 
+18:03:09,932 2016-05-26,Pilot Proved,39,50 
+18:03:10,032 2016-05-26,Pilot Proved,30,25 
+18:03:10,132 2016-05-26,Pilot Proved,23,53 
+18:03:10,231 2016-05-26,Pilot Proved,18,49 
+18:03:10,333 2016-05-26,Pilot Proved,11,76 
+18:03:10,432 2016-05-26,Pilot Proved,5,04 
+18:03:10,532 2016-05-26,Pilot Proved,3,36 
+18:03:10,632 2016-05-26,Pilot Proved,0,00 
+18:03:10,933 2016-05-26,Pilot Proved,7,56 
+18:03:11,034 2016-05-26,Pilot Proved,19,33 
+18:03:11,135 2016-05-26,Pilot Proved,42,86 
+18:03:11,235 2016-05-26,Pilot Proved,58,82 
+18:03:11,436 2016-05-26,Pilot Proved,19,33 
+18:03:11,535 2016-05-26,Pilot Proved,9,24 
+18:03:11,635 2016-05-26,Pilot Proved,7,56 
+18:03:13,339 2016-05-26,Pilot Proved,6,72 
+18:03:13,440 2016-05-26,Pilot Proved,17,65 
+18:03:13,539 2016-05-26,Pilot Proved,36,13 
+18:03:13,639 2016-05-26,Pilot Proved,57,14 
+18:03:13,740 2016-05-26,Pilot Proved,69,75 
+18:03:14,340 2016-05-26,Pilot Proved,68,07 
+18:03:14,439 2016-05-26,Pilot Proved,52,94 
+18:03:14,539 2016-05-26,Pilot Proved,41,18 
+18:03:14,639 2016-05-26,Pilot Proved,32,77 
+18:03:14,839 2016-05-26,Pilot Proved,97,48 
+18:03:14,940 2016-05-26,Pilot Proved,100,00 
